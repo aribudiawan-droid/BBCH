@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<rect width="512" height="512" rx="96" fill="#639922"/>
-<path d="M256 380 V230" stroke="#EAF3DE" stroke-width="22" stroke-linecap="round" fill="none"/>
-<path d="M256 250 C220 250 190 220 186 180 C230 180 256 210 256 250 Z" fill="#EAF3DE"/>
-<path d="M256 230 C292 230 322 200 326 160 C282 160 256 190 256 230 Z" fill="#97C459"/>
-<text x="256" y="446" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" text-anchor="middle" fill="#EAF3DE">BBCH</text>
-</svg>
