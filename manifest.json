@@ -1,6 +1,6 @@
 {
-  "name": "BBCH Grass Growth Stage Explorer",
-  "short_name": "BBCH Grass",
+  "name": "Grass Growth Stages (GGS)",
+  "short_name": "GGS",
   "description": "Interactive guide to BBCH growth stages of grass, with weed control timing.",
   "start_url": "./bbch-growth-stage-explorer.html",
   "scope": "./",
